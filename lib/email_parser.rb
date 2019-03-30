@@ -16,5 +16,4 @@ class EmailParser(emails)
     end
     csv_emails.flatten.uniq 
   end 
-  end
 end
